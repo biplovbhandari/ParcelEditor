@@ -1,2 +1,2 @@
 # ParcelEditor
-Open source version of Parcel Editor
+Open source version of SAEx
